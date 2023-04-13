@@ -10,6 +10,6 @@ namespace API.Entities
         public string PictureUrl { get; set; }
         public string Type { get; set; }
         public string Brand { get; set; }
-        public int qualityInStock { get; set; }
+        public int QualityInStock { get; set; }
     }
 }
